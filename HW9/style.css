@@ -238,22 +238,6 @@ body{
         width: auto;
     }
 } */
-.discover__list{
-    display: flex;
-    gap: 10px;
-    list-style: none;    
-}
-.discover__card{
-    display: none;
-    gap: 8px;
-    justify-content: space-between;
-}
-.discover__card.active{
-    display: flex;
-}
-.discover__button.active{
-    background: #504dee;
-}
 
 footer{
     background: #19191c;
