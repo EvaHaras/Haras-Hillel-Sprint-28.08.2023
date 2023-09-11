@@ -66,7 +66,7 @@ body{
 .offer{
     display: flex;
     justify-content: space-between;
-    background-image: url(/HW7/img/bg2.png);
+    background-image: url(./HW7/img/bg2.png);
     background-position: 60% 100%; 
     background-repeat: no-repeat;
     height: 1800px;
@@ -74,7 +74,7 @@ body{
 }
 .offer__holder{
     width: 648px;
-    background-image: url(/HW7/img/bg1.png);
+    background-image: url(./HW7/img/bg1.png);
     background-position: 100% -100% ;
     background-repeat: no-repeat;
 }
